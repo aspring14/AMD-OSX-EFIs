@@ -9,3 +9,5 @@ If you are looking to make an AMD Hackintosh, follow the AMD Vanilla Guide:
 [https://vanilla.amd-osx.com/](https://vanilla.amd-osx.com/)
 
 The guide is beautiful and easy to follow.
+
+Thank you Shaneee, XLNC, and everyone at AMD OSX! This repo only shows how far we have gone! https://amd-osx.com/
